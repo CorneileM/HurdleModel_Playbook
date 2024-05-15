@@ -1,4 +1,4 @@
-# How to use highly versatile hurdle models for common data anlysis use cases 
+# A hurdle model playbook
 
 A guide (with example data) to implementing highly versatile hurdle models using MCMCglmm in R (Python coming soon).
 
